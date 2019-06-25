@@ -1,6 +1,6 @@
 # DataStructure
 数据结构大数据处理
-user.txt中存放了120万余条用户编号(user_id)、密码(password)的记录。
+user.txt(大小限制这里只放了1万条)中存放了120万余条用户编号(user_id)、密码(password)的记录。
 每行包含一条记录，每条记录包含：user_id和password中间为TAB分隔（即C语言中的\t）。
 user_id的范围为：1～1,230,000
 password的范围：只包含字母和数字，并且长度处于[6,19]之间。
